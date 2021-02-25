@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.pic {
+    width: 160px;
+    height: 250px;
+}
+
+.container {
+    background-color: aquamarine;
+}
+
+.image {
+    width: 250;
+    height: 400px;
+}
+
+#myCarousel {
+    background-color: darkgreen;
+}
+
+.text {
+    color: white;
+}
